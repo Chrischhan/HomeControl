@@ -1,0 +1,6 @@
+[submodule "lib/ITEADLIB_Arduino_Nextion"]
+	path = lib/ITEADLIB_Arduino_Nextion
+	url = https://github.com/itead/ITEADLIB_Arduino_Nextion.git
+[submodule "lib/BMP180_Breakout_Arduino_Library"]
+	path = lib/BMP180_Breakout_Arduino_Library
+	url = https://github.com/sparkfun/BMP180_Breakout_Arduino_Library.git
