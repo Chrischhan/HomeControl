@@ -10,3 +10,6 @@
 [submodule "lib/rc-switch"]
 	path = lib/rc-switch
 	url = https://github.com/sui77/rc-switch
+[submodule "lib/time"]
+	path = lib/time
+	url = https://github.com/PaulStoffregen/Time
